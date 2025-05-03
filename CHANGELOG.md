@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wize-works/wize-finance/compare/v1.1.0...v1.2.0) (2025-05-03)
+
+
+### Features
+
+* update @wizeworks/graphql-factory-mongo to version 1.26.0 in package.json and package-lock.json ([0e9d457](https://github.com/wize-works/wize-finance/commit/0e9d457c7399fd4139b888d241e1dc140aa46634))
+
 # [1.1.0](https://github.com/wize-works/wize-finance/compare/v1.0.0...v1.1.0) (2025-05-03)
 
 
