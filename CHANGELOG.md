@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/wize-works/wize-finance/compare/v1.4.0...v1.4.1) (2025-05-06)
+
+
+### Bug Fixes
+
+* correct indentation in deploy.yml for kubelogin installation and AKS context setup ([a255186](https://github.com/wize-works/wize-finance/commit/a2551861fcfed5c677211ab3e7437710c4d9a200))
+
 # [1.4.0](https://github.com/wize-works/wize-finance/compare/v1.3.0...v1.4.0) (2025-05-06)
 
 
