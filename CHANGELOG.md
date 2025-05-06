@@ -1,3 +1,16 @@
+# [1.4.0](https://github.com/wize-works/wize-finance/compare/v1.3.0...v1.4.0) (2025-05-06)
+
+
+### Bug Fixes
+
+* correct indentation in deploy.yml for kubelogin steps ([1776202](https://github.com/wize-works/wize-finance/commit/177620209250fd933a243dc1c038a1f704364198))
+* update deploy.yml for non-interactive AKS auth ([c1082f6](https://github.com/wize-works/wize-finance/commit/c1082f6a857c307b35bce0ee7ad2c19e37825ec1))
+
+
+### Features
+
+* update @wizeworks/graphql-factory-mongo to version 1.31.0 in package.json and package-lock.json ([d3d8f66](https://github.com/wize-works/wize-finance/commit/d3d8f661c7df9d4340641a5659cf30ffd589faff))
+
 # [1.3.0](https://github.com/wize-works/wize-finance/compare/v1.2.0...v1.3.0) (2025-05-04)
 
 
