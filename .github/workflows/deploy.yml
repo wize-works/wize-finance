@@ -111,7 +111,7 @@ jobs:
       - name: Install kubelogin
         uses: azure/use-kubelogin@v1
         with:
-	  kubelogin-version: v0.0.25
+          kubelogin-version: v0.0.25
         
 
       - name: Set AKS Context with admin access
@@ -119,8 +119,8 @@ jobs:
         with:
           cluster-name: ${{ secrets.AKS_CLUSTER }}
           resource-group: ${{ secrets.AZURE_RG }}
-	  admin: true
-	  
+          admin: true
+
       - name: Convert kubeconfig to use Azure CLI token
         run: kubelogin convert-kubeconfig -l azurecli
 
