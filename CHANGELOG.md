@@ -1,3 +1,10 @@
+## [1.4.3](https://github.com/wize-works/wize-finance/compare/v1.4.2...v1.4.3) (2025-05-09)
+
+
+### Bug Fixes
+
+* update @wizeworks/graphql-factory-mongo to version 1.33.6 ([556189c](https://github.com/wize-works/wize-finance/commit/556189c0bd8faf7f0fb971db957d2f51f84d2851))
+
 ## [1.4.2](https://github.com/wize-works/wize-finance/compare/v1.4.1...v1.4.2) (2025-05-06)
 
 
